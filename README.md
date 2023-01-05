@@ -2,7 +2,7 @@
 
 ### Demo
 
-[https://nzer-suleiman.github.io/leon-template/](https://nzer-suleiman.github.io/leon-template/)
+[https://Nzer551.github.io/leon-template/](https://Nzer551.github.io/leon-template/)
 
 ### Learn How To Create The Design
 
